@@ -6,7 +6,11 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/garvit__101/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garvit-goyal-b35359321/) [![CodeForces](https://img.shields.io/badge/Codeforces-%230077B5.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/gg18) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/garvitgoyal18/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/garvit__101/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garvit-goyal-b35359321/)
+[![CodeForces](https://img.shields.io/badge/Codeforces-%230077B5.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/gg18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/garvitgoyal18/)
+
 
 # 💻 Tech Stack:
 #### Frontend: 
