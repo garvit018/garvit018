@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Exploring Dense World of Backend <br><!-- 🍸 I’m currently learning more about DSA and Full Stack --> <br>📮 How to reach me: [garvitgoyal83@gmail.com](mailto:garvitgoyal83@gmail.com)
+🔭 Exploring Dense World of Backend <br><!-- 🍸 I’m currently learning more about DSA and Full Stack --> <br>📫 How to reach me garvitgoyal83@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=garvit018&label=Profile%20views&color=0e75b6&style=flat" alt="garvit" />
 
