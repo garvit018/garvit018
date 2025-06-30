@@ -20,6 +20,12 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=garvit018&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=garvit018&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvit018&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats Card -->
+![](https://github-readme-stats.vercel.app/api?username=garvit018&hide_border=false&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=60)
+
+<!-- GitHub Streak Stats -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=garvit018&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvit018&hide_border=false&layout=compact&langs_count=6&cache_seconds=60)
+
