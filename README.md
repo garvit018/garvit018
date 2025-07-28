@@ -25,12 +25,7 @@
 
 # 📊 GitHub Stats:
 
-<!-- GitHub Stats Card -->
-![](https://github-readme-stats.vercel.app/api?username=garvit018&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=86400&v=1)
-
-<!-- GitHub Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=garvit018&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=orange&currStreakLabel=orange&sideLabels=gray&v=1)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvit018&layout=compact&langs_count=8&hide_border=false&cache_seconds=86400&v=1)
+![](https://github-readme-stats.vercel.app/api?username=garvit018&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=garvit018&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=garvit018&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
